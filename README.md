@@ -3,7 +3,7 @@
 This repository contains an exploratory data analysis (EDA) project implemented in Python.  
 The project demonstrates practical skills in data cleaning, data wrangling, statistical analysis, and basic data visualization using real-world data.
 
-## 📌 Project Overview
+##  Project Overview
 In this project, I performed exploratory data analysis on a structured dataset with the goal of:
 - Cleaning and preprocessing raw data
 - Handling missing values and duplicate entries
@@ -14,7 +14,7 @@ In this project, I performed exploratory data analysis on a structured dataset w
 
 This project was developed as a hands-on exercise to build and demonstrate computational data analysis skills, particularly in preparation for PhD-level research involving large datasets.
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 - Python
 - Pandas (data manipulation and analysis)
 - NumPy (numerical operations)
@@ -30,10 +30,10 @@ This project was developed as a hands-on exercise to build and demonstrate compu
 - Descriptive statistics and aggregation
 - Visualization of data distributions and summary statistics
 
-## 📁 Repository Structure
+##  Repository Structure
 - exploratory_data_analysis.ipynb — Jupyter Notebook containing all data preprocessing, analysis, and visualization steps
 
-## 🎯 Purpose
+##  Purpose
 The purpose of this project is to demonstrate:
 - Comfort working with Python-based data analysis workflows
 - Experience handling and analyzing structured datasets
