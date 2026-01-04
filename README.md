@@ -32,6 +32,7 @@ This project was developed as a hands-on exercise to build and demonstrate compu
 
 ##  Repository Structure
 - exploratory_data_analysis.ipynb — Jupyter Notebook containing all data preprocessing, analysis, and visualization steps
+- S2.csv — Raw dataset containing Test cricket career batting statistics
 
 ##  Purpose
 The purpose of this project is to demonstrate:
