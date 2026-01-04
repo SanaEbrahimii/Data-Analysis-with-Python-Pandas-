@@ -21,7 +21,7 @@ This project was developed as a hands-on exercise to build and demonstrate compu
 - Matplotlib (data visualization)
 - Jupyter Notebook
 
-## 📊 Key Tasks Performed
+##  Key Tasks Performed
 - Data cleaning and preprocessing
 - Handling missing values using statistical imputation
 - Removing duplicate records
@@ -40,7 +40,7 @@ The purpose of this project is to demonstrate:
 - Ability to interpret and visualize data
 - Motivation to develop computational skills alongside a strong scientific background
 
-## 🚀 Future Improvements
+##  Future Improvements
 - Applying more advanced statistical analysis
 - Extending the project to larger datasets
 - Applying similar analysis pipelines to domain-specific data (e.g. biological datasets)
